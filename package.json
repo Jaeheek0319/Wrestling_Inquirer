@@ -1,0 +1,24 @@
+{
+  "name": "wrestling_inquirer",
+  "version": "1.0.0",
+  "description": "Wrestling Inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaeheek0319/Wrestling_Inquirer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaeheek0319/Wrestling_Inquirer/issues"
+  },
+  "homepage": "https://github.com/Jaeheek0319/Wrestling_Inquirer#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
